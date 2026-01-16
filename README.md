@@ -9,5 +9,10 @@
 - 🚀 Em constante evolução, aprofundando conhecimentos em JavaScript, Python, Testes Automatizados e React
 - 👯‍♀️ Fun fact: Sou gêmea e, por coincidência (ou destino 😄), seguimos a mesma área profissional
 
+### 📫 Vamos conversar?
+
+💼 **LinkedIn:** https://www.linkedin.com/in/emilly-santos-ramalho/ 
+📧 **Email:** emilly.ramalho.tech@gmail.com
+
 
 

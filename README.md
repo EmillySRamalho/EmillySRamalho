@@ -11,8 +11,8 @@
 
 ### 📫 Vamos conversar?
 
-💼 **LinkedIn:** https://www.linkedin.com/in/emilly-santos-ramalho/ 
-📧 **Email:** emilly.ramalho.tech@gmail.com
+- 💼 **LinkedIn:** https://www.linkedin.com/in/emilly-santos-ramalho/
+- 📧 **Email:** emilly.ramalho.tech@gmail.com
 
 
 
